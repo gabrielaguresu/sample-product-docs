@@ -13,7 +13,7 @@ Returns a paginated list of invoices for the authenticated account.
 ### Query parameters
 
 - `limit` (integer, default 50, max 100)
-- `starting_after` (string) — cursor for pagination
+- `starting_after` (string) — cursor for pagination 
 - `status` (string) — filter by status: `draft`, `open`, `paid`, `void`
 
 ### Response
