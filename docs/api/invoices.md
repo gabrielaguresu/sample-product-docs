@@ -8,7 +8,7 @@
 
 `GET /v2/invoices`
 
-Returns a paginated list of invoices for the authenticated account.
+Returns a paginated list of invoices for the authenticated account. 
 
 ### Query parameters
 
